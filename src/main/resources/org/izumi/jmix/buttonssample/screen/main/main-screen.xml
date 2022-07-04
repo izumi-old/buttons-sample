@@ -1,0 +1,9 @@
+<window xmlns="http://jmix.io/schema/ui/window"
+        caption="msg://application.caption">
+
+    <layout expand="workArea">
+        <workArea id="workArea" stylename="jmix-workarea" width="100%">
+            <initialLayout spacing="true" margin="true"/>
+        </workArea>
+    </layout>
+</window>
